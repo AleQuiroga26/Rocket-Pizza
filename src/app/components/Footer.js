@@ -57,7 +57,7 @@ export default function Footer() {
               Nuestra base espacial
             </h3>
             <p className="text-sm text-gray-200">
-              Fotheringam 100, X5808 Río Cuarto, Córdoba, Argentina
+              San Martín 2000, X5808 Río Cuarto, Córdoba, Argentina
             </p>
             <p className="text-sm text-gray-300 mt-2">
               Abierto 24/7 </p>
