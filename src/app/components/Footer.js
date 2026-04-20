@@ -9,29 +9,12 @@ export default function Footer() {
               Rocket Pizza
             </h2> 
             <p className="text-sm text-gray-200 mt-3">
-              Mas que una Pizzería. 
+              Pizzas inspiradas en el espacio, hechas con pasión y un toque de locura.
             </p>
             <p className="text-sm text-gray-200 mt-3">
-              Sabores clásicos como la pizza de mama
+              Sabores clásicos a la piedra, con un toque espacial.
             </p>
           </div>
-
-          <div>
-            <h3 className="text-lg font-semibold text-orange-300 mb-3">
-              Navegación
-            </h3>
-            <ul className="space-y-2 text-sm text-gray-200">
-              <li className="cursor-pointer transition-all duration-300 hover:text-orange-400 hover:scale-110 hover:-translate-y-1 hover:tracking-wide hover:drop-shadow-[0_0_6px_rgba(255,140,0,0.8)]">
-                Inicio
-              </li>
-              <li className="cursor-pointer transition-all duration-300 hover:text-orange-400 hover:scale-110 hover:-translate-y-1 hover:tracking-wide hover:drop-shadow-[0_0_6px_rgba(255,140,0,0.8)]">
-                Carta
-              </li>
-              <li className="cursor-pointer transition-all duration-300 hover:text-orange-400 hover:scale-110 hover:-translate-y-1 hover:tracking-wide hover:drop-shadow-[0_0_6px_rgba(255,140,0,0.8)]">
-                Contacto
-              </li> 
-            </ul>
-          </div> 
 
           <div>
             <h3 className="text-lg font-semibold text-orange-300 mb-3">
@@ -60,12 +43,12 @@ export default function Footer() {
               San Martín 2000, X5808 Río Cuarto, Córdoba, Argentina
             </p>
             <p className="text-sm text-gray-300 mt-2">
-              Abierto 24/7 </p>
+              Abierto todos los dias desde 18:00 hasta las 00:30 </p>
           </div>
 
           <div className="rounded-2xl overflow-hidden border border-orange-500/30 shadow-lg">
             <iframe
-              src="https://www.google.com/maps?q=Rio%20Cuarto%20Cordoba&output=embed"
+              src="https://maps.google.com/maps?q=San%20Martin%202000%20Rio%20Cuarto%20Cordoba%20Argentina&t=&z=15&ie=UTF8&iwloc=&output=embed"
               width="100%"
               height="220"
               style={{ border: 0 }}
