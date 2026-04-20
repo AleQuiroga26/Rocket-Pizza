@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-gradient-to-r from-red-900 via-red-800 to-orange-700 text-white mt-16 border-t border-orange-500/40">
+    <footer className="bg-linear-to-r from-red-900 via-red-800 to-orange-700 text-white mt-16 border-t border-orange-500/40">
       <div className="max-w-7xl mx-auto px-6 py-10">
         
         <div className="grid md:grid-cols-3 gap-10 mb-10">
