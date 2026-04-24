@@ -12,7 +12,7 @@ export default function Contacto() {
       <div className="relative z-10 max-w-md w-full bg-white/90 p-6 rounded-xl shadow-md border">
         
         <h1 className="text-2xl font-bold mb-4 text-center">
-          📞 Contacto
+            Contacto
         </h1>
 
         <p className="text-gray-600 text-center mb-6">
